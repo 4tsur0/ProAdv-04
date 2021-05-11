@@ -6,7 +6,7 @@ Google,https://www.google.com/,text/html; charset=ISO-8859-1,gws,True,TLSv1,TLSv
 
 Cloud Computing Services  |  Google Cloud,https://cloud.google.com/,text/html; charset=utf-8,Google Frontend,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
-Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more,https://www.amazon.com/,text/html,Server,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+"Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",https://www.amazon.com/,text/html,Server,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
 Amazon Web Services (AWS) -  Cloud Computing Services,https://aws.amazon.com/,text/html;charset=UTF-8,Server,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
@@ -17,6 +17,7 @@ Apple,https://www.apple.com/,text/html; charset=UTF-8,Apple,True,TLSv1,TLSv1.1,T
 Microsoft - Official Home Page,https://www.microsoft.com/,text/html; charset=utf-8,Null,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
 Cloud Computing Services | Microsoft Azure,https://azure.microsoft.com/,text/html; charset=utf-8,Null,True,error,error,TLSv1.2,TLSv1.2
+
 IETF  | Internet Engineering Task Force,https://www.ietf.org/,text/html; charset=utf-8,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
 IETF Datatracker,https://datatracker.ietf.org/,text/html; charset=utf-8,Apache,False,TLSv1,TLSv1.1,TLSv1.2,TLSv1.2
