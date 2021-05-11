@@ -16,38 +16,38 @@ Apple,https://www.apple.com/,text/html; charset=UTF-8,Apple,True,TLSv1,TLSv1.1,T
 
 Microsoft - Official Home Page,https://www.microsoft.com/,text/html; charset=utf-8,Null,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
-Cloud Computing Services | Microsoft Azure,https://azure.microsoft.com/,text/html; charset=utf-8,Null,True,error,error,TLSv1.2,TLSv1.2
+Cloud Computing Services | Microsoft Azure,https://azure.microsoft.com/,text/html; charset=utf-8,Null,True,disabled,disabled,TLSv1.2,unsupported
 
 IETF  | Internet Engineering Task Force,https://www.ietf.org/,text/html; charset=utf-8,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
-IETF Datatracker,https://datatracker.ietf.org/,text/html; charset=utf-8,Apache,False,TLSv1,TLSv1.1,TLSv1.2,TLSv1.2
+IETF Datatracker,https://datatracker.ietf.org/,text/html; charset=utf-8,Apache,False,TLSv1,TLSv1.1,TLSv1.2,unsupported
 
-Japan Network Information Center - JPNIC,https://www.nic.ad.jp/,text/html,Apache,False,error,error,TLSv1.2,TLSv1.2
+Japan Network Information Center - JPNIC,https://www.nic.ad.jp/,text/html,Apache,False,disabled,disabled,TLSv1.2,unsupported
 
 HTTP Archive,https://httparchive.org/,text/html; charset=utf-8,Google Frontend,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
-W3Techs - extensive and reliable web technology surveys,https://w3techs.com/,text/html; charset=UTF-8,Apache/2.4.41 (Ubuntu),False,error,error,TLSv1.2,TLSv1.3
+W3Techs - extensive and reliable web technology surveys,https://w3techs.com/,text/html; charset=UTF-8,Apache/2.4.41 (Ubuntu),False,disabled,disabled,TLSv1.2,TLSv1.3
 
 Cloudflare - The Web Performance & Security Company | Cloudflare,https://www.cloudflare.com/,text/html; charset=utf-8,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
- Let's Encrypt,https://letsencrypt.org/,text/html; charset=UTF-8,Netlify,True,error,error,TLSv1.2,TLSv1.3
+Let's Encrypt,https://letsencrypt.org/,text/html; charset=UTF-8,Netlify,True,disabled,disabled,TLSv1.2,TLSv1.3
 
-Oracle | Integrated Cloud Applications and Platform Services,https://www.oracle.com/,text/html; charset=utf-8,Null,True,error,error,TLSv1.2,TLSv1.3
+Oracle | Integrated Cloud Applications and Platform Services,https://www.oracle.com/,text/html; charset=utf-8,Null,True,disabled,disabled,TLSv1.2,TLSv1.3
 
-DigitalOcean – The developer cloud,https://www.digitalocean.com/,text/html,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.2
+DigitalOcean – The developer cloud,https://www.digitalocean.com/,text/html,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,unsupported
 
-Cloud Application Platform | Heroku,https://www.heroku.com/,text/html; charset=utf-8,Null,False,error,error,TLSv1.2,TLSv1.3
+Cloud Application Platform | Heroku,https://www.heroku.com/,text/html; charset=utf-8,Null,False,disabled,disabled,TLSv1.2,TLSv1.3
 
-Welcome! - The Apache HTTP Server Project,https://httpd.apache.org/,text/html,Apache,False,error,error,TLSv1.2,TLSv1.3
+Welcome! - The Apache HTTP Server Project,https://httpd.apache.org/,text/html,Apache,False,disabled,disabled,TLSv1.2,TLSv1.3
 
-GitHub: Where the world builds software · GitHub,https://github.com/,text/html; charset=utf-8,GitHub.com,True,error,error,TLSv1.2,TLSv1.3
+GitHub: Where the world builds software · GitHub,https://github.com/,text/html; charset=utf-8,GitHub.com,True,disabled,disabled,TLSv1.2,TLSv1.3
 
-"Linux Foundation - Decentralized innovation, built with trust",https://www.linuxfoundation.org/,text/html; charset=UTF-8,nginx,True,error,error,TLSv1.2,TLSv1.2
+"Linux Foundation - Decentralized innovation, built with trust",https://www.linuxfoundation.org/,text/html; charset=UTF-8,nginx,True,disabled,disabled,TLSv1.2,unsupported
 
 VPN Software Solutions & Services For Business | OpenVPN,https://openvpn.net/,text/html; charset=UTF-8,cloudflare,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
 "WireGuard: fast, modern, secure VPN tunnel",https://www.wireguard.com/,text/html,ZX2C4 Web Server,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
-"Adobe: Creative, marketing and document management solutions",https://www.adobe.com/,text/html; charset=UTF-8,Apache,True,error,error,TLSv1.2,TLSv1.3
+"Adobe: Creative, marketing and document management solutions",https://www.adobe.com/,text/html; charset=UTF-8,Apache,True,disabled,disabled,TLSv1.2,TLSv1.3
 
-Twitter. It’s what’s happening / Twitter,https://twitter.com/,text/html; charset=utf-8,tsa_m,True,error,error,TLSv1.2,TLSv1.2
+Twitter. It’s what’s happening / Twitter,https://twitter.com/,text/html; charset=utf-8,tsa_m,True,disabled,disabled,TLSv1.2,unsupported
