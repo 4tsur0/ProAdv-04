@@ -1,4 +1,4 @@
-title,URL,Content-Type,Server,HTTP/2,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+Title,URL,Content-Type,Server,HTTP/2,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
 Alphabet,https://abc.xyz/,text/html,sffe,True,TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
 
