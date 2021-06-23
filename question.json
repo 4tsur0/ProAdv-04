@@ -1,22 +1,22 @@
 [
   {
     "number": 1,
-    "choices": ["ans1", "ans2", "ans3", "ans4"],
-    "answer": 0
-  },
-  {
-    "number": 2,
-    "choices": ["ans1", "ans2", "ans3", "ans4"],
-    "answer": 1
-  },
-  {
-    "number": 3,
-    "choices": ["ans1", "ans2", "ans3", "ans4"],
+    "sentence": "1 + 1 =",
     "answer": 2
   },
   {
+    "number": 2,
+    "sentence": "答えは3",
+    "answer": 5
+  },
+  {
+    "number": 3,
+    "sentence": "答えは｢test｣",
+    "answer": "test"
+  },
+  {
     "number": 4,
-    "choices": ["ans1", "ans2", "ans3", "ans4"],
-    "answer": 3
+    "sentence": "1 + 4 =",
+    "answer": 5
   }
 ]
