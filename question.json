@@ -2,21 +2,25 @@
   {
     "number": 1,
     "sentence": "1 + 1 =",
+    "userinput": ""
     "answer": 2
   },
   {
     "number": 2,
     "sentence": "答えは3",
+    "userinput": ""
     "answer": 5
   },
   {
     "number": 3,
     "sentence": "答えは｢test｣",
+    "userinput": ""
     "answer": "test"
   },
   {
     "number": 4,
     "sentence": "1 + 4 =",
+    "userinput": ""
     "answer": 5
   }
 ]
