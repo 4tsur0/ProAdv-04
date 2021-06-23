@@ -1,20 +1,20 @@
 {
-  question: "クイズ1",
-  answers: ["ans1", "ans2", "ans3", "ans4"],
-  answer: 0
+  "question": "クイズ1",
+  "answers": ["ans1", "ans2", "ans3", "ans4"],
+  "answer": 0
 },
 {
-  question: "クイズ2",
-  answers: ["ans1", "ans2", "ans3", "ans4"],
-  answer: 1
+  "question": "クイズ2",
+  "answers": ["ans1", "ans2", "ans3", "ans4"],
+  "answer": 1
 },
 {
-  question: "クイズ3",
-  answers: ["ans1", "ans2", "ans3", "ans4"],
-  answer: 2
+  "question": "クイズ3",
+  "answers": ["ans1", "ans2", "ans3", "ans4"],
+  "answer": 2
 },
 {
-  question: "クイズ4",
-  answers: ["ans1", "ans2", "ans3", "ans4"],
-  answer: 3
+  "question": "クイズ4",
+  "answers": ["ans1", "ans2", "ans3", "ans4"],
+  "answer": 3
 }
